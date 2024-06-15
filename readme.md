@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> saladCAT IS NOT FINISHED
+
 [![Documentation](https://img.shields.io/badge/docs-online-informational?style=flat&link=https://docs.libcpr.org/)]([https://docs.libcpr.org/](https://github.com/HFPZ/Banana-Internal))
 ![CI](https://github.com/libcpr/cpr/workflows/CI/badge.svg)
 [![Gitter](https://badges.gitter.im/libcpr/community.svg)]([https://gitter.im/libcpr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge](https://github.com/HFPZ/Banana-Internal))
