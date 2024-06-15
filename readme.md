@@ -1,7 +1,6 @@
-<h1 align="center">saladCAT Internal</h1>
+<h1 align="center">saladCAT Internal [ NOT REALESED ]</h1>
 
 
-NOT RELEASED, YET
 
 > [!NOTE]
 > Injection flags programs as malicious because it forces unauthorized access to inject code. Antivirus software detects these exploits as false positives since they involve injecting code into running processes. Using a DLL to inject into the games process triggers the antivirus. This behavior is called a false positive.
