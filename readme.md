@@ -1,15 +1,21 @@
 > [!IMPORTANT]
 > ## saladCAT IS NOT FINISHED
 
-[![Documentation](https://img.shields.io/badge/docs-online-informational?style=flat&link=https://docs.libcpr.org/)]([https://docs.libcpr.org/](https://github.com/HFPZ/Banana-Internal))
-![CI](https://github.com/libcpr/cpr/workflows/CI/badge.svg)
-[![Gitter](https://badges.gitter.im/libcpr/community.svg)]([https://gitter.im/libcpr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge](https://github.com/HFPZ/Banana-Internal))
-
-![ssssss](https://github.com/HFPZ/Banana-Internal/assets/172925390/4b0d810b-dbbd-406b-96fb-d5b99bb2973a)
+![saladCAT PNG](https://github.com/HFPZ/Banana-Internal/assets/172925390/ac4d6ae1-8ccb-4481-aced-e30afeef20d9)
 
 
+[![GitHub release](https://img.shields.io/github/v/release/HFPZ/Banana-Internal?color=blue&label=release)]()
+[![GitHub license](https://img.shields.io/github/license/HFPZ/Banana-Internal?color=green)]()
+[![GitHub issues](https://img.shields.io/github/issues/HFPZ/Banana-Internal?color=red)]()
+[![GitHub stars](https://img.shields.io/github/stars/HFPZ/Banana-Internal?color=yellow)]()
+[![GitHub forks](https://img.shields.io/github/forks/HFPZ/Banana-Internal?color=orange)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/HFPZ/Banana-Internal?color=blue)]()
 
-<h1 align="center">saladCAT Internal [ NOT REALESED ]</h1>
+
+
+
+
+<h1 align="center">$${\color{#FFC300}salad\color{#56565E}CAT}$$</h1>
 
 
 
@@ -18,13 +24,7 @@
 >
 ---
 <div align="center">
-
-
-
 </div>
-
- 
-
  <div align="center">
 
    
