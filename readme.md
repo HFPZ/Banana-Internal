@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> ## saladCAT IS NOT FINISHED
+> ## Download - https://github.com/HFPZ/Banana-Internal/releases/tag/Realese
 
 ![saladCAT PNG](https://github.com/HFPZ/Banana-Internal/assets/172925390/ac4d6ae1-8ccb-4481-aced-e30afeef20d9)
 
