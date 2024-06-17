@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> ## Latest update patched it!
+> ## Get it at https://github.com/HFPZ/Banana-Internal/releases/tag/Release
 
 ![saladCAT PNG](https://github.com/HFPZ/Banana-Internal/assets/172925390/ac4d6ae1-8ccb-4481-aced-e30afeef20d9)
 
